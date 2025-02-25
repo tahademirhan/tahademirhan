@@ -1,39 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?size=24&center=true&width=500%&lines=Hey+there,+I+am+using+Github!"></a>
-</p>
-<hr></hr>
-<br>
-<div align="center">
-   Hi I'm Taha Demirhan, Software Developer from Turkey
-<div>
-<br>
-<div align="center">
-  🔭 I’m currently studying at Maltepe University Software Engineering.
-</div>
-<div align="center">
-  💻 I’m currently working on mobile and web applications.
-</div>
-<div align="center">
-  💬 Ask me anything about from
-  <a href="https://github.com/tahademirhan/tahademirhan/issues" title="Issues">Here</a>
-</div>
-<div align="center">
-  📫 How to reach me: tahadmrhan@gmail.com
-</div>
-<br>
-<hr></hr>
-
-
-<h3 align="center">
-  <b>📩 Connect with me</b>
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tahademirhan/"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/tahadmrhan/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</p>
-<hr></hr>
-
 <h3 align="center">
   <b>🔥 Languages & Frameworks & Tools & Abilities</b>
 </h3>
@@ -53,6 +17,13 @@
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/firebase.svg"><img title="Firebase" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/firebase.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg"><img title="PostgreSQL" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"><img title="Flutter" height="35" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/databases/mongodb.svg"><img title="MongoDB" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/databases/mongodb.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/databases/mysql.svg"><img title="MySQL" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/databases/mysql.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/databases/oracle.svg"><img title="Oracle" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/databases/oracle.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/frameworks/react.svg"><img title="React" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/frameworks/react.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/programming%20languages/python.svg"><img title="Python" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/programming%20languages/python.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/cloud/amazon.svg"><img title="AWS" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/cloud/amazon.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/frameworks/nodejs.svg"><img title="NodeJS" height="35" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/refs/heads/main/frameworks/nodejs.svg" style="max-width: 100%;"></a></code>
  </p>
 <hr></hr>
 
